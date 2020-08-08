@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirrormingzZ&layout=compact&hide=HTML)](https://mirrorming.cn)
 [![mirrormingzZ's github](https://github-readme-stats.vercel.app/api?username=mirrormingzZ&hide=contribs,prs&count_private=true&show_icons=true)](https://mirrorming.cn)
 
+<div><iframe
+      src="//www.seniverse.com/weather/weather.aspx?uid=UD9E6B0A35&cid=CHBJ000000&l=zh-CHS&p=SMART&a=1&u=C&s=5&m=2&x=1&d=3&fc=&bgc=&bc=C6C6C6&ti=0&in=1&li="
+      frameborder="0" scrolling="no" width="200" height="300" allowTransparency="true"></iframe></div>
+
+
 
 
 
