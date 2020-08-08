@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![mirrormingzZ's github stats](https://github-readme-stats.vercel.app/api?username=mirrormingzZ)](https://github.com/anuraghazra/github-readme-stats)
-
+[![mirrormingzZ's github stats](https://github-readme-stats.vercel.app/api?username=mirrormingzZ&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
