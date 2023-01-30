@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pursue-wind&layout=compact&hide=HTML)](https://mirrorming.cn)
-[![mirrormingzZ's github](https://github-readme-stats.vercel.app/api?username=pursue-wind&hide=contribs,prs&count_private=true&show_icons=true)](https://mirrorming.cn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pursue-wind&layout=compact&hide=HTML)](https://pursue.pub)
+[![mirrormingzZ's github](https://github-readme-stats.vercel.app/api?username=pursue-wind&hide=contribs,prs&count_private=true&show_icons=true)](https://pursue.pub)
