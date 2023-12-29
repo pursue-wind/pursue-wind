@@ -29,7 +29,8 @@ Java 新手开发，求职中...
 - **搜索引擎：** 熟练使用ElasticSearch
 - **消息队列：** 熟练使用Kafka、RocketMQ等常用消息队列
 - **工具：** 熟练使用Git、Maven、Gradle、Docker
-- **CICD：** 熟练使用阿里云效流水线、Coding持续集成、Jenkins等工具的搭建使用
+- **CICD：** 熟练使用GitLab CI、Jenkins、云效流水线、Coding持续集成
+- **云原生：** 了解 kubernetes 的使用
 - **前端：** 熟练使用Vue全家桶、jQuery、微信小程序，有实际开发经验
 
 ## Contact me by:
