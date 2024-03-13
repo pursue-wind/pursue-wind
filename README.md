@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 Java 新手开发，求职中...
 
 - **Java：** 熟练掌握Java基础、多线程、JVM
-- **Kotlin：**熟练使用Kotlin和Spring结合开发，有IDEA插件开发经验
-- **Go：**了解Golang，参与过多个Golang项目的开发和重构
-- **Python：**了解Python，Scrapy爬虫开发，熟练使用Python脚本提升工作效率
+- **Kotlin：** 熟练使用Kotlin和Spring结合开发，有IDEA插件开发经验
+- **Go：** 了解Golang，参与过多个Golang项目的开发和重构
+- **Python：** 了解Python，Scrapy爬虫开发，熟练使用Python脚本提升工作效率
 - **Linux：** 熟练使用Linux系统的常用命令，能有效进行系统管理和问题排查
 - **数据库：** 熟练掌握MySQL和Redis等常用数据库
 - **框架：** 熟练掌握Spring全家桶、MyBatis等主流开发框架，能快速进行项目构建和开发
@@ -32,7 +32,7 @@ Java 新手开发，求职中...
 - **CICD：** 熟练使用GitLab CI、Jenkins、云效流水线、Coding持续集成等进行自动化构建和部署
 - **云原生：** 了解kubernetes的使用
 - **前端：** 熟练使用Vue全家桶、jQuery、微信小程序进行前端开发
-- 
+ 
 ## Contact me by:
 - Email: [pursue_c@163.com](mailto:pursue_c@163.com)
 - Personal Website: [pursue.pub](https://doc.pursue.pub)
