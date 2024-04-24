@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pursue-wind&layout=compact&hide=HTML)](https://pursue.pub)
 [![mirrormingzZ's github](https://github-readme-stats.vercel.app/api?username=pursue-wind&hide=contribs,prs&count_private=true&show_icons=true)](https://pursue.pub)
 
-Java 新手开发，求职中...
+Java/Go 开发，求职中...
 
 - **Java：** 熟练掌握Java基础、多线程、JVM
 - **Kotlin：** 熟练使用Kotlin和Spring结合开发，有IDEA插件开发经验
